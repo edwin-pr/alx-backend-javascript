@@ -11,8 +11,8 @@ NodeJS
 ExpressJS
 Mocha
  Weight: 1
- Project will start Apr 30, 2024 6:00 AM, must end by May 3, 2024 6:00 AM
- Checker was released at May 1, 2024 12:00 AM
+ Project will start Jun 5, 2024 6:00 AM, must end by Jun 7, 2024 6:00 AM
+ Checker was released at Jun 5, 2024 6:00 PM
  An auto review will be launched at the deadline
 
 
